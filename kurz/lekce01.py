@@ -1,8 +1,13 @@
 """
 lEKCE 1 - promene a jejich typy, uvod do tisku na obrazovku
 
-Promenne v python se nemusi na rozdil od jinych jazyku nijak deklarovat. Staci jen promenou zavest
-jejim jmenem a priradit data a podle typu dat ze zvoli i typ promenne
+Promenne v python se nemusi na rozdil od jinych jazyku nijak deklarovat. Jejich nazvy pozor rozlisuji mala a velka pismena.
+Takze Jmeno jmeno JMENO jsou tri ruzne promene...
+Staci jen promenou zavest jejim jmenem a priradit data a podle typu dat ze zvoli i typ promenne. Od te chvile lze obecne
+promenou pouzivat menit obsah apod. Python nezna pojem kontanta, takze kazdou promenou muzete zmenit. Konstanty pokud
+je potrebujete se obvykle pisi jinak v ramci programu at je to zrejme pokud mozno na prvni pohled. Treba jmena
+konstant maji vsechna velka pismena, nebo neco podobneho. Je dobre zvolit si nebo okopirovat styl psani nazvu promenych
+funkci a dalsich objektu a drzet se toho a moc to nemenit at je kod co nejvic citelny...
 
 napr.   a = 1       typ int - cele cislo
         a = 3.14    typ float - cislo s pohyblivou desetinnou carkou
