@@ -49,7 +49,6 @@ Tisk na obrazovku - uplne zaklady
             1. pomoci funkce format pripojene na konec retezce, kdy jednotlive veci co chceme vlozit do textu davame
                jako parametry funkce format a jejich misto a poradi v textu oznacime {} poradovym cislem od 0,1,2...
 
-                print("PRIJMENI: {0}, JMENO: {1}, VEK: {2}, VYSKA: {3} cm, PLAT: {4} EUR/hod".format(jmeno, prijmeni, vek, vyska, plat))
 
 
             2. pomoci specielniho zapisu retezce ktery zacina pismenem 'f' a v retezci na misto kde chceme neco zobrazit
