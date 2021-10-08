@@ -20,3 +20,5 @@ stav_plynomeru_predtým= 27460.873
 aktualny_stav_plynomeru-stav_plynomeru_predtým
 
 3.6/2
+
+skusam to rozbehat tak som zvedavy 
