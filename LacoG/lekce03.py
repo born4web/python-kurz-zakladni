@@ -1,5 +1,5 @@
 týždeň = {
-    "Pondelok" : 1,
+    "Pondelok" : 1,  # TODO: mezery pred carkou nemaji byt za carkou ano
     "Utorok" :2,
     "Streda" :3,
     "Štvrtok" :4,

@@ -64,7 +64,16 @@ seznam_cisel[-10:5]
    jakysi reknem sklad na ruzne veci a jen vy vite co na kterem miste seznamu je ulozeno ve vasem programu
         ruzne_veci = [1, 'ahoj', [0.1, 0.5, 1.5], seznam_cisel, True]
 
+
 SE SEZNAMY V TETO LEKCI SE ZASE DOBRE A RYCHLE PRACUJE ZKOUSI SE  UCI SE PRIMO V PYTHON RADKU ALE KLIDNE TO DELEJTE ZDE
+
+9. Zvlastnim typem seznamu je datovy typ 'tuple'. Vytvari se stejne ale misto hranatych zavorek [] pouzijete kulate ().
+   Tento seznam pouziva stejne indexy jako list zasadni rozdil je v tom ze jej nelze menit jde tedy o fixni nemeny list
+   prvku a nefunguji funkce pop, append,...apod. Tento typ ma svuj smysl prave tam kde potrebuji fixni skupinu prvku
+   pevneho poradi (menit poradi prvku v seznamu se budeme ucit take ale pozdeji - napr setridit prvky dle abecedy)
+
+10.
+
 
 """
 
