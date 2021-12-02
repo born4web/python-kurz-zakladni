@@ -41,3 +41,6 @@ print(týždeň)
 # Update
 mesiace.update(mesiac)
 print(mesiace)
+x = 0
+x =týždeň["Pondelok"] - týždeň["Streda"]
+print(x)
